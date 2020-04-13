@@ -1,4 +1,5 @@
 #from datetime import datetime
+import pkg_resources.py2_warn
 import webbrowser
 import rumps
 
